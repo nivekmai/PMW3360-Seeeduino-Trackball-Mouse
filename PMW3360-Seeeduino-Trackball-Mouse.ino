@@ -13,7 +13,7 @@ ezButton buttonR(3);
 PMW3360 sensor(6, 1600);
 
 void setup() {
-  Serial.begin(96000);
+  Serial.begin(9600);
   Mouse.begin();
   sensor.setup();
   encoder.setup();
