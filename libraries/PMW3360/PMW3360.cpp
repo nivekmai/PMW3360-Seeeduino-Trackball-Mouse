@@ -183,9 +183,6 @@ void PMW3360::loop(std::function<void(int, int)> callback) {
 
     // update only if a movement is detected.
     if (motion) {
-        Serial.print(x);
-        Serial.print('\t');
-        Serial.println(y);
         callback(x, y);
     }
 }

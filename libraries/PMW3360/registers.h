@@ -1,4 +1,3 @@
-
 // Registers
 #define Product_ID  0x00
 #define Revision_ID 0x01
