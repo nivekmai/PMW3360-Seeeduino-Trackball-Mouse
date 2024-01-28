@@ -61,16 +61,16 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1600"
-     inkscape:window-height="829"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
      id="namedview4771"
      showgrid="false"
      showborder="false"
-     inkscape:zoom="0.82089552"
-     inkscape:cx="421.1691"
-     inkscape:cy="244.72732"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="2.3218432"
+     inkscape:cx="299.27114"
+     inkscape:cy="249.49992"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="page1" />
   <defs
@@ -252,136 +252,6 @@
       </g>
     </g>
     <g
-       transform="translate(661,220.91)"
-       id="group19">
-      <g
-         id="shape20">
-        <path
-           d="m 0,8 3.6,-8 6.1,16 6,-16 6.7,16 6.3,-16 6,16 3.3,-8"
-           id="path4333"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000" />
-      </g>
-      <text
-         xml:space="preserve"
-         id="text4338"><tspan
-           x="8.25"
-           y="32.40625"
-           style="font-weight:normal;font-size:13.33333302px;font-family:Arial;fill:#191919"
-           id="tspan4336">10k</tspan></text>
-    </g>
-    <g
-       transform="translate(661,272.91)"
-       id="group21">
-      <g
-         id="shape22">
-        <path
-           d="m 0,8 3.6,-8 6.1,16 6,-16 6.7,16 6.3,-16 6,16 3.3,-8"
-           id="path4341"
-           inkscape:connector-curvature="0"
-           style="fill:none;stroke:#000000" />
-      </g>
-      <text
-         xml:space="preserve"
-         id="text4346"><tspan
-           x="8.25"
-           y="32.40625"
-           style="font-weight:normal;font-size:13.33333302px;font-family:Arial;fill:#191919"
-           id="tspan4344">10k</tspan></text>
-    </g>
-    <g
-       transform="translate(529,257.9)"
-       id="shape23">
-      <path
-         d="m 0,0 h 104 v -29 h 28"
-         id="path4349"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000" />
-    </g>
-    <g
-       transform="translate(661,280.91)"
-       id="shape24">
-      <path
-         d="M 0,0 H -28 V -23"
-         id="path4352"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000" />
-    </g>
-    <g
-       transform="translate(761,210.2)"
-       id="shape25">
-      <path
-         d="M 120,145.6 V 11.3 C 120,5 114.9,0 108.6,0 H 11.3 C 5,0 0,5 0,11.3 v 134.3 c 0,6.3 5,11.4 11.3,11.4 h 97.3 c 6.3,0 11.4,-5.1 11.4,-11.4 z"
-         id="path4355"
-         inkscape:connector-curvature="0"
-         style="fill:#ffffff;stroke:#323232" />
-      <text
-         xml:space="preserve"
-         id="text4361"><tspan
-           x="40.328125"
-           y="73.3125"
-           style="font-weight:normal;font-size:13.33333302px;font-family:Arial;fill:#191919"
-           id="tspan4357">Rotary</tspan><tspan
-           x="35.140625"
-           y="92.5"
-           style="font-weight:normal;font-size:13.33333302px;font-family:Arial;fill:#191919"
-           id="tspan4359">Encoder</tspan></text>
-    </g>
-    <g
-       transform="translate(761,343.64)"
-       id="shape26">
-      <path
-         d="M 0,0 H -136.8 V -65.9 H -232"
-         id="path4364"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000" />
-    </g>
-    <g
-       transform="translate(699,228)"
-       id="shape27">
-      <path
-         d="M 0,0 H 62"
-         id="path4367"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000" />
-    </g>
-    <g
-       transform="translate(699,280)"
-       id="shape28">
-      <path
-         d="M 0,0 H 61"
-         id="path4370"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000" />
-    </g>
-    <g
-       transform="translate(369,279.06)"
-       id="shape29">
-      <path
-         d="M 0,0 H -57.8 V -109.1 H 330.4"
-         id="path4373"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000" />
-    </g>
-    <g
-       transform="translate(720,281)"
-       id="shape30">
-      <path
-         d="m 0,0 c 9.6,-2.2 19.3,-4.4 24.7,-22.7 5.4,-18.3 6.5,-52.6 -1.8,-70 -8.3,-17.4 -25.9,-17.9 -43.5,-18.4"
-         id="path4376"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#323232" />
-    </g>
-    <g
-       transform="translate(369,260.1)"
-       id="shape31">
-      <path
-         d="m 0,0 h -28 v -66.6 h 378.5 v 34.4"
-         id="path4379"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000" />
-    </g>
-    <g
        transform="translate(389,272.91)"
        id="shape32">
       <text
@@ -499,15 +369,6 @@
          style="fill:none;stroke:#000000" />
     </g>
     <g
-       transform="translate(601,295)"
-       id="shape42">
-      <path
-         d="m 0,0 c 5.7,-0.5 11.4,-0.9 14.5,-6.8 3.1,-5.9 3.7,-17.3 0.8,-23.2 -2.9,-6 -9.2,-6.6 -15.5,-7.2"
-         id="path4434"
-         inkscape:connector-curvature="0"
-         style="fill:none;stroke:#000000" />
-    </g>
-    <g
        transform="translate(761,518.6)"
        id="shape43">
       <path
@@ -553,7 +414,7 @@
          style="fill:none;stroke:#000000" />
     </g>
     <g
-       transform="translate(761,610)"
+       transform="matrix(1.0000811,0,0,0.90615737,761.01701,610.03073)"
        id="shape48">
       <path
          d="m 0,0 h -419 v -238 h 27"
@@ -729,6 +590,16 @@
          inkscape:connector-curvature="0"
          style="fill:none;stroke:#323232" />
     </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 528.57538,258.41116 h 72.787 L 601,295"
+       id="path1005"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 528.57538,277.79232 590,277.70002"
+       id="path1007"
+       inkscape:connector-curvature="0" />
   </g>
   <g
      transform="translate(-145.09091,673.05454)"

@@ -1,12 +1,14 @@
 #include <Mouse.h>
 #include <Keyboard.h>
-#include <Encoder.h>
 #include <PMW3360.h>
 #include <ezButton.h>
 
+// debounce time for buttons to avoid duplicate clicks
 #define DEBOUNCE 50
+// chunk the scrolls such that the ball needs to move this 
+// distance before a scroll movement (one line) is sent 
+#define SCROLL_CHUNK_Y 50
 
-Encoder encoder(0, 1, 100);
 
 ezButton buttonL(4);
 ezButton buttonM(2);
@@ -14,14 +16,11 @@ ezButton buttonR(3);
 PMW3360 sensor(6, 1600);
 bool middleDown = false;
 int scrollcompY = 0;
-int SCROLL_CHUNK_Y = 50;
 
 void setup() {
-  Serial.begin(9600);
   Mouse.begin();
   Keyboard.begin();
   sensor.setup();
-  encoder.setup();
   buttonL.setDebounceTime(DEBOUNCE);
   buttonM.setDebounceTime(DEBOUNCE);
   buttonR.setDebounceTime(DEBOUNCE);
@@ -57,14 +56,14 @@ void middleButtonLoop() {
   }
 }
 
-
-
 void onTrackballMove(int x, int y) {
   if (middleDown) {
+    // Rotated 90 deg with normal scrolling
     scrollcompY -= x;
     Mouse.move(0, 0, scrollcompY/SCROLL_CHUNK_Y);
     scrollcompY = scrollcompY % SCROLL_CHUNK_Y;
   } else {
+    // Rotated 90 deg
     Mouse.move(y, x, 0);
   }
 }
