@@ -18,7 +18,7 @@ Connecting PMW3360 sensor to a Seeeduino XIAO
 - MI -> A9/D9/MISO
 - SC -> A8/D8/SCK
 - MT -> A7/D7/RX
-- SS -> A5/D5/SCL
+- SS -> A6/D6/TX
 
 ### Setup for the Rotary Encoder <> Seeeduino Xiao
 
